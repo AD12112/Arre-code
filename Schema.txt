@@ -1,0 +1,7 @@
+{
+    "_id": ObjectId(),
+    "group_id": ObjectId(),
+    "sender_id": ObjectId(),
+    "message": "string",
+    "timestamp": ISODate()
+}
